@@ -1,10 +1,10 @@
 {
-    "name": "Coding & Crypto NFT",
-    "symbol": "BETA",
-    "description": "A test for our NFT example.",
+    "name": "Brunel Student NFT ",
+    "symbol": "BRUNEL",
+    "description": "verified by Brunel University London",
     "seller_fee_basis_points": 5,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/800px-Mr._Krabs.svg.png"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv7y0xijopDcAVjp4TcbNGvAX0YD8fJtDKyQ&s"
 }
